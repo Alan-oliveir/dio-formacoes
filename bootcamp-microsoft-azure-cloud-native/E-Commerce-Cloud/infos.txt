@@ -1,6 +1,3 @@
-adminhsouza
-P@$$w0rd2022dev001hsouza
-
 CREATE TABLE Produtos (
             id INT IDENTITY(1,1) PRIMARY KEY,
             nome NVARCHAR(255),
