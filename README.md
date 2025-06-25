@@ -7,6 +7,7 @@ Este repositório agrupa os projetos, anotações e exercícios desenvolvidos ao
 | Formação/Bootcamp                             | Status     | Carga Horária | Tecnologias             |
 |-----------------------------------------------|------------|----------------|--------------------------|
 | [Bootcamp iFood - Desenvolvimento de Jogos](https://github.com/Alan-oliveir/potencia-tech-ifood-jogos) | ✅ Concluído | 70h | HTML, CSS, JS           |
+| [Bootcamp Microsoft Azure Cloud Natives](https://github.com/Alan-oliveir/dio-formacoes/tree/main/bootcamp-microsoft-azure-cloud-native) | ✅ Concluído | 23h | Azure Functions, GitHub Copilot, IA, Cloud|
 
 
 ---
